@@ -17,3 +17,4 @@ var numOfItems:Int = 77     //명시적으로 Int로 생성
 //numOfItems = 65.4         //int형에 소수를 넣으면 에러남
 
 
+var name:String = "Kim Taejin"
